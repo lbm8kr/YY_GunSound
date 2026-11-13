@@ -1,0 +1,9 @@
+## Interface: 11400, 11401, 11402, 11403, 11404, 11500, 11501, 11502, 11503, 11504, 16001
+## Title: |cff00ffcc[YYing]|r GunSound
+## Notes: Custom Hunter Gun Sound & Independent Volume Controller by YeoYuING
+## Title-koKR: |cff00ffcc[여유잉]|r 총소리 설정 (YY_GunSound)
+## Notes-koKR: 사냥꾼 총소리를 5가지 테마로 변경하고 발사음/장전음 볼륨을 개별 조절합니다.
+## Author: 여유잉 (YeoYuING) - youtube.com/@yying1
+## Version: 1.0
+## SavedVariables: YY_GunSoundDB
+YY_GunSound.lua
